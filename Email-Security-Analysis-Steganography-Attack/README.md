@@ -1,4 +1,4 @@
-# Email Security Analysis – Steganographic Python Payload in Phishing Attack
+# Email Security Analysis – Steganographic Python Payload in Phishing Attack 
 
 ## Overview
 This project documents a complete forensic and threat intelligence analysis of a sophisticated Business Email Compromise (BEC) phishing attack that used steganography to deliver malware. The malicious payload was hidden inside a JPEG image attachment and extracted using steganographic cracking tools. The investigation included email header analysis, authentication validation, IOC extraction, malware behavior analysis, and MITRE ATT&CK mapping.
