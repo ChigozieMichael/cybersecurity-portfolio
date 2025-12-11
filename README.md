@@ -14,3 +14,6 @@ It includes work in SIEM monitoring, threat detection, incident response, risk a
    
 
 4. **Asset Inventory & Access Control Implementation**
+
+
+5. **Firewall Hardening & Network Monitoring (OPNsense)**
