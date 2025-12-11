@@ -1,4 +1,4 @@
-# GDPR Compliance Policy Development Project
+# GDPR Compliance Policy Development Project 
 
 ## Overview
 This project demonstrates the development of a comprehensive GDPR Compliance Policy for a fictional organization, DELAP WARES INC. The policy aligns with Regulation (EU) 2016/679 and establishes a robust governance framework for data protection, security controls, and legal compliance. The work reflects practical cybersecurity governance and GRC (Governance, Risk, and Compliance) competencies.
