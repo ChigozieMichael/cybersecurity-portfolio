@@ -1,4 +1,4 @@
-# PCAP Forensic Analysis – Dridex Banking Trojan Infection
+# PCAP Forensic Analysis – Dridex Banking Trojan Infection 
 
 ## Overview
 This project documents a complete forensic investigation of a network capture containing a confirmed Dridex banking trojan infection. Analysis was performed on the file `traffic-with-dridex-infection.pcap`, covering 42 minutes of network activity. The investigation identifies Command and Control (C2) servers, malicious domains, payload downloads, exfiltration indicators, and the full attack timeline.
