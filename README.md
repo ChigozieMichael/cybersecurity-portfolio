@@ -17,3 +17,6 @@ It includes work in SIEM monitoring, threat detection, incident response, risk a
 
 
 5. **Firewall Hardening & Network Monitoring (OPNsense)**
+
+
+6. **Splunk-bruteforce-detection**
